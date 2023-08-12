@@ -1,0 +1,11 @@
+React:
+react@18.2.0
+
+React Router DOM:
+react-router-dom@6.14.2
+
+TailWindCSS:
+tailwindcss@3.3.3
+
+ReactIcons:
+react-icons@4.10.1
