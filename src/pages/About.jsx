@@ -42,7 +42,7 @@ function About() {
             <tr class="border-b dark:border-neutral-500">
               <td class="whitespace-nowrap px-6 py-4">Principles of Chemistry</td>
               <td class="whitespace-nowrap px-6 py-4">Physics I, II</td>
-              <td class="whitespace-nowrap px-6 py-4">Calculus I, II</td>
+              <td class="whitespace-nowrap px-6 py-4">Calculus I, II, III</td>
             </tr>
             <tr class="border-b dark:border-neutral-500">
               <td class="whitespace-nowrap px-6 py-4">Organic Chemistry I, II</td>

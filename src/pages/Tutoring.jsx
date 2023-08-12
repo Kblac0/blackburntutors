@@ -7,9 +7,10 @@ function Tutoring() {
     <div>
         <Navbar />
         <div className='block justify-between items-center h-24 max-w-[1240px] mx-auto px-8 py-16 text-white'>
-          <h1 className='text-xl font-bold'>Tutoring</h1>
+          <h1 className='text-xl font-bold'>Subjects</h1>
           <br />
-
+          <p>I currently only tutor senior high school math and science courses, as shown in the table below.</p>
+            <br />
           <div class="flex flex-col">
   <div class="overflow-x-auto sm:-mx-6 lg:-mx-8">
     <div class="inline-block min-w-full py-2 sm:px-6 lg:px-8">
@@ -20,7 +21,7 @@ function Tutoring() {
               <th scope="col" class="px-6 py-4"></th>
               <th scope="col" class="px-6 py-4">Grade 11</th>
               <th scope="col" class="px-6 py-4">Grade 12</th>
-              <th scope="col" class="px-6 py-4">Undergraduate</th>
+              <th scope="col" class="px-6 py-4">Undergraduate [pending]</th>
             </tr>
           </thead>
           <tbody>
